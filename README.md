@@ -4,4 +4,4 @@
 here are my solutions to cses problemset
 
 *disclaimer*:
-I donot any responsibility or credit for these codes
+I donot take any responsibility or credit for these codes
