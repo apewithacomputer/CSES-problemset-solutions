@@ -3,5 +3,5 @@
 
 here are my solutions to cses problemset
 
-*disclaimer*
+*disclaimer*:
 I donot any responsibility or credit for these codes
